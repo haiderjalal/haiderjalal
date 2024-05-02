@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:3840/format:webp/1*zy5IG2inEQSqeWyPJ7vo-g.gif)
 # 💫 About Me:
-<h1 align="left">Hi 👋, I'm Ruslan Babar</h1>
+<h1 align="left">Hi 👋, I'm Haider Jalal</h1>
 <h3 align="left">A passionate Software Engineer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
@@ -9,13 +9,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on **Flutter, Node, Python**
+- 🔭 I’m currently working on **MERN, Spline, GSAP**
 
 - 🌱 I’m currently learning **ML, DL, Tensor Flow**
 
-- 💬 Ask me about **Mobile App Development**
+- 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **ruslanbabar@gmail.com**
+- 📫 How to reach me **haiderjalal1555@gmail.com**
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/www.behance.net/uxruslan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ruslan.durrani/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/___russi7kd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/uxruslan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ruslandurrani) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCM3s126_TGnTVU-9ACG0C2w) 
